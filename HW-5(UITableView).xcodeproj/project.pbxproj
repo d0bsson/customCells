@@ -15,6 +15,7 @@
 		D7A8405B2B13D2D80069FEE3 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A8405A2B13D2D80069FEE3 /* CustomTableViewCell.swift */; };
 		D7A8405F2B13D52A0069FEE3 /* CellModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A8405E2B13D52A0069FEE3 /* CellModel.swift */; };
 		D7A840622B13DB3C0069FEE3 /* ViewExtentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A840612B13DB3C0069FEE3 /* ViewExtentions.swift */; };
+		D7A840642B15183D0069FEE3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A840632B15183D0069FEE3 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D7A8405A2B13D2D80069FEE3 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		D7A8405E2B13D52A0069FEE3 /* CellModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellModel.swift; sourceTree = "<group>"; };
 		D7A840612B13DB3C0069FEE3 /* ViewExtentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtentions.swift; sourceTree = "<group>"; };
+		D7A840632B15183D0069FEE3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				D7729A012B0FE30700D6F7B2 /* ViewController.swift */,
+				D7A840632B15183D0069FEE3 /* SecondViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				D77299FE2B0FE30700D6F7B2 /* AppDelegate.swift in Sources */,
 				D7A8405B2B13D2D80069FEE3 /* CustomTableViewCell.swift in Sources */,
 				D7A840622B13DB3C0069FEE3 /* ViewExtentions.swift in Sources */,
+				D7A840642B15183D0069FEE3 /* SecondViewController.swift in Sources */,
 				D7A8405F2B13D52A0069FEE3 /* CellModel.swift in Sources */,
 				D7729A002B0FE30700D6F7B2 /* SceneDelegate.swift in Sources */,
 			);
